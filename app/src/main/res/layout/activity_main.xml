@@ -58,7 +58,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 app:srcCompat="@mipmap/settings"
-                android:id="@+id/btn_settings"
+                android:id="@+id/btn_cog"
                 android:scaleType="fitCenter"
                 android:layout_weight="1"/>
 
